@@ -12,7 +12,7 @@
 
 BinerGo, Türkiye'de şehir içi ulaşımı kolay, hızlı ve güvenli hale getirmek için geliştirilen bir taksi çağırma ve paylaşımlı yolculuk uygulamasıdır. Yolcular birkaç dokunuşla en yakın taksiyi çağırabilir, ücreti önceden hesaplayabilir ve yolculuk geçmişini takip edebilir. Sürücüler ise kendi panelinden yolculukları yönetir.
 
-> **English:** BinerGo is an online taxi-hailing and ride-sharing platform for Turkey. Riders can call the nearest taxi, estimate the fare before the trip and track ride history; drivers manage trips from their own panel. Sedan, SUV, premium and commercial vehicle options.
+> **English:** BinerGo is an online taxi-hailing and ride-sharing platform for Turkey. Riders can call the nearest taxi, estimate the fare before the trip and track ride history; drivers manage trips from their own panel. Economy, Comfort and XL vehicle options.
 
 ## Özellikler
 
@@ -20,7 +20,7 @@ BinerGo, Türkiye'de şehir içi ulaşımı kolay, hızlı ve güvenli hale geti
 
 - **Taksi çağır:** Bulunduğun konuma en yakın aracı çağır.
 - **Fiyat hesapla:** Yolculuk ücretini yola çıkmadan öğren.
-- **Araç seçenekleri:** Sedan, SUV, premium ve ticari araçlar.
+- **Araç seçenekleri:** Ekonomi, Konfor ve XL.
 - **Yolculuk geçmişi:** Önceki yolculuklarını ve profilini görüntüle.
 - **Şehir sayfaları:** İstanbul, Ankara, İzmir ve diğer şehirler için ayrı hizmet sayfaları.
 - **Kampanyalar:** Güncel indirimler ve promosyonlar.
@@ -39,8 +39,7 @@ BinerGo, Türkiye'de şehir içi ulaşımı kolay, hızlı ve güvenli hale geti
 ## Teknoloji
 
 - **Ön yüz:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui
-- **Sunucu:** Node.js ve Express
-- **Veritabanı:** PostgreSQL ve Drizzle ORM
+- **Sunucu:** Node.js ve Express, REST API
 - **SEO:** Türkçe meta etiketleri, Open Graph ve şehir bazlı sayfalar
 
 ## Durum
